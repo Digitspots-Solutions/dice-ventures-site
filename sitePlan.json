@@ -1,0 +1,49 @@
+{
+  "businessName": "Dice Ventures",
+  "industry": "Manufacturing",
+  "tone": "professional and confident",
+  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Dice Ventures - Your Trusted Manufacturing Partner in Delta State. We deliver precision-engineered manufacturing solutions that drive industrial growth across Nigeria. Located in Kwale, we combine technical expertise with reliable service to meet your production needs.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with clean industrial architecture, metal framework and glass panels, set against clear blue sky in Delta State, Nigeria. Professional industrial photography showing organized workspace with machinery visible through windows, well-maintained compound with paved pathways, photorealistic, sharp detail, bright natural lighting",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Dice Ventures is a leading manufacturing company based in Kwale town, Ndokwa West, Delta State. We specialize in providing comprehensive manufacturing solutions tailored to meet the evolving needs of Nigerian industries. Our state-of-the-art facility combines modern equipment with skilled craftsmanship to deliver products that meet international quality standards. With deep roots in the Delta region, we understand the unique challenges and opportunities of manufacturing in Nigeria, and we're committed to contributing to local industrial development while serving clients nationwide.",
+      "imagePrompt": "Interior of modern Nigerian manufacturing workshop showing skilled workers in safety gear operating precision machinery, organized workspace with quality control stations, natural lighting through large windows, clean floors with marked safety zones, Made-in-Nigeria products on assembly line, professional industrial environment, photorealistic detail, warm professional atmosphere",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Dice Ventures, we offer a comprehensive range of manufacturing services designed to support various industries across Nigeria:\n\n**Custom Manufacturing** - We produce bespoke manufactured goods tailored to your exact specifications, ensuring precision and quality in every project.\n\n**Industrial Fabrication** - Our expert team handles metal fabrication, welding, and structural steel work for construction and industrial applications.\n\n**Product Development** - From concept to finished product, we support your innovation journey with prototyping and production capabilities.\n\n**Quality Assurance** - Every product undergoes rigorous quality control to meet both Nigerian industrial standards and international best practices.\n\n**Supply Chain Solutions** - We provide reliable manufacturing partnerships with timely delivery and consistent quality for your business operations.",
+      "imagePrompt": "Grid of manufacturing processes in modern Nigerian facility: CNC machining in action, welding sparks flying in controlled environment, quality inspector examining product with precision tools, finished metal products arranged professionally, workers in branded safety equipment collaborating, each scene showing professional industrial setting with excellent lighting, photorealistic, high detail, clean organized workspace",
+      "layout": "grid"
+    },
+    {
+      "id": "team",
+      "name": "Our Team",
+      "copy": "Behind Dice Ventures is a dedicated team of experienced engineers, skilled technicians, and quality control specialists. Our workforce combines technical training with years of hands-on manufacturing experience in the Nigerian industrial sector. We invest continuously in staff development to ensure our team stays current with the latest manufacturing technologies and safety standards. Every member of our team is committed to delivering excellence, maintaining safety protocols, and upholding the reputation for reliability that our clients have come to expect from Dice Ventures.",
+      "imagePrompt": "Professional Nigerian manufacturing team portrait in clean modern facility, diverse group of engineers and technicians in branded uniforms and safety gear, confident poses showing expertise, modern equipment in background, natural lighting, sharp focus on faces showing pride and professionalism, photorealistic, corporate quality, Delta State industrial setting",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Dice Ventures is here to help. Whether you need a quote, want to visit our facility, or have questions about our capabilities, our team is ready to assist you.\n\n**Visit Our Facility:**\n3, Owessei Close, off Owessei Road\nKwale Town, Ndokwa West\nDelta State, Nigeria\n\n**Get In Touch:**\nPhone: 0803 666 3910\nWhatsApp: Available for instant queries\n\nOur team responds promptly to all inquiries. Contact us today to learn how Dice Ventures can support your manufacturing requirements with quality, reliability, and professional service.",
+      "imagePrompt": "Welcoming reception area of Nigerian manufacturing company, modern office space with comfortable seating, large windows showing factory floor in background, professional receptionist at clean desk, Delta State location map on wall, branded company materials displayed, natural lighting, professional corporate environment, photorealistic, inviting atmosphere",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0803 666 3910",
+    "email": "info@diceventures.ng",
+    "address": "3, Owessei Close, off Owessei Road, Kwale Town, Ndokwa West, Delta State, Nigeria",
+    "whatsapp": "https://wa.me/2348036663910"
+  }
+}
